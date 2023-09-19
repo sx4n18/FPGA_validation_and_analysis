@@ -16,12 +16,14 @@ each_prediciton = np.load("./SNN_software_results/SNN_ensemble_prediction.npy")
 final_prediction = np.load("./SNN_software_results/hard_voting_prediction.npy")
 
 test_sample_num = int(9000*0.15)
-inconsistency_cnt = 0
+inconsistency_cnt_FPGA_wrong = 0
+inconsistency_cnt_SJ_wrong = 0
+correct_cnt = 0
 
 ## hardware software inconsisiteny analysis
 for index in range(test_sample_num):
     if fpga_result[index] != final_prediction[index] and fpga_result[index] != ground_truth[index]:
-        inconsistency_cnt += 1
+        inconsistency_cnt_FPGA_wrong += 1
         print("------------------------------------------------------")
         print("Index: ", index)
         print("FPGA result: ", fpga_result[index])
@@ -29,6 +31,18 @@ for index in range(test_sample_num):
         print("SNN software result: ", final_prediction[index])
         print("SNN software each result: ", each_prediciton[:, index])
         print("------------------------------------------------------")
+    elif fpga_result[index] != final_prediction[index] and fpga_result[index] == ground_truth[index]:
+        inconsistency_cnt_SJ_wrong += 1
+        print("------------------------------------------------------")
+        print("Index: ", index)
+        print("FPGA result: ", fpga_result[index])
+        print("SNN software result: ", final_prediction[index])
+        print("SNN software each result: ", each_prediciton[:, index])
+        print("------------------------------------------------------")
+    else:
+        correct_cnt += 1
 
-
-print("Total number of inconsistency: ", inconsistency_cnt)
+print("Total number of inconsistency: ", inconsistency_cnt_FPGA_wrong + inconsistency_cnt_SJ_wrong)
+print("Number of FPGA wrong: ", inconsistency_cnt_FPGA_wrong)
+print("Number of SNN software wrong: ", inconsistency_cnt_SJ_wrong)
+print("Number of other: ", correct_cnt)
