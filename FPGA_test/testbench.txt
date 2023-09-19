@@ -1,0 +1,2050 @@
+trans_start = 1;
+bin_cnt = 0;
+#10
+trans_start = 0;
+bin_cnt = 4;
+#10
+bin_cnt = 5;
+#10
+bin_cnt = 4;
+#10
+bin_cnt = 4;
+#10
+bin_cnt = 6;
+#10
+bin_cnt = 3;
+#10
+bin_cnt = 3;
+#10
+bin_cnt = 4;
+#10
+bin_cnt = 8;
+#10
+bin_cnt = 29;
+#10
+bin_cnt = 46;
+#10
+bin_cnt = 26;
+#10
+bin_cnt = 8;
+#10
+bin_cnt = 3;
+#10
+bin_cnt = 4;
+#10
+bin_cnt = 5;
+#10
+bin_cnt = 5;
+#10
+bin_cnt = 3;
+#10
+bin_cnt = 7;
+#10
+bin_cnt = 6;
+#10
+bin_cnt = 8;
+#10
+bin_cnt = 8;
+#10
+bin_cnt = 9;
+#10
+bin_cnt = 7;
+#10
+bin_cnt = 11;
+#10
+bin_cnt = 14;
+#10
+bin_cnt = 7;
+#10
+bin_cnt = 11;
+#10
+bin_cnt = 10;
+#10
+bin_cnt = 10;
+#10
+bin_cnt = 8;
+#10
+bin_cnt = 10;
+#10
+bin_cnt = 8;
+#10
+bin_cnt = 13;
+#10
+bin_cnt = 13;
+#10
+bin_cnt = 10;
+#10
+bin_cnt = 6;
+#10
+bin_cnt = 5;
+#10
+bin_cnt = 7;
+#10
+bin_cnt = 11;
+#10
+bin_cnt = 9;
+#10
+bin_cnt = 6;
+#10
+bin_cnt = 9;
+#10
+bin_cnt = 12;
+#10
+bin_cnt = 14;
+#10
+bin_cnt = 6;
+#10
+bin_cnt = 4;
+#10
+bin_cnt = 15;
+#10
+bin_cnt = 5;
+#10
+bin_cnt = 5;
+#10
+bin_cnt = 2;
+#10
+bin_cnt = 3;
+#10
+bin_cnt = 3;
+#10
+bin_cnt = 10;
+#10
+bin_cnt = 5;
+#10
+bin_cnt = 8;
+#10
+bin_cnt = 11;
+#10
+bin_cnt = 10;
+#10
+bin_cnt = 4;
+#10
+bin_cnt = 6;
+#10
+bin_cnt = 3;
+#10
+bin_cnt = 5;
+#10
+bin_cnt = 6;
+#10
+bin_cnt = 8;
+#10
+bin_cnt = 7;
+#10
+bin_cnt = 2;
+#10
+bin_cnt = 4;
+#10
+bin_cnt = 5;
+#10
+bin_cnt = 3;
+#10
+bin_cnt = 5;
+#10
+bin_cnt = 4;
+#10
+bin_cnt = 4;
+#10
+bin_cnt = 3;
+#10
+bin_cnt = 4;
+#10
+bin_cnt = 4;
+#10
+bin_cnt = 2;
+#10
+bin_cnt = 9;
+#10
+bin_cnt = 7;
+#10
+bin_cnt = 3;
+#10
+bin_cnt = 4;
+#10
+bin_cnt = 4;
+#10
+bin_cnt = 2;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 5;
+#10
+bin_cnt = 4;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 2;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 4;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 3;
+#10
+bin_cnt = 3;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 2;
+#10
+bin_cnt = 3;
+#10
+bin_cnt = 2;
+#10
+bin_cnt = 3;
+#10
+bin_cnt = 2;
+#10
+bin_cnt = 2;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 2;
+#10
+bin_cnt = 5;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 3;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 2;
+#10
+bin_cnt = 2;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 2;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 2;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 2;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 2;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 3;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 2;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 2;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 2;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 2;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 2;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 2;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 2;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 2;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 2;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 2;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 2;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 2;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 2;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 2;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 3;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 1;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
+bin_cnt = 0;
+#10
