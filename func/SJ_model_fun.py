@@ -104,15 +104,21 @@ def evaluate_accuracy_with_nofire_neuron(data_loader, model, device, T=1, precha
     #print(corrects * 100 / total)
     return corrects / total * 100, np.concatenate(predicitons), np.concatenate(mem_vol)
 
-def load_and_eval(index, device, test_dataset, T=10, normed_weights_SNN=None, threshold=None):
+def load_and_eval(index, device, test_dataset, T=10, normed_weights_path=None, threshold_path=None):
     ## directly load the converted SNN model
-    if normed_weights_SNN is None:
+    if normed_weights_path is None:
         with open("/Users/shouyuxie/Projects_machine_learning/ensemble_learning/Ensemble_SNN_HW/Weights_and_data/quant_pruned_SNN/diagonal_" + str(index) + "/quantised_weights.pkl", "rb") as snn_f:
             normed_weights_snn = pickle.load(snn_f)
-    if threshold is None:
+    else:
+        with open(normed_weights_path, "rb") as snn_f:
+            normed_weights_snn = pickle.load(snn_f)
+    if threshold_path is None:
         with open(
                 "/Users/shouyuxie/Projects_machine_learning/ensemble_learning/Ensemble_SNN_HW/Weights_and_data/quant_pruned_SNN/diagonal_" + str(
                         index) + "/quantised_threshold.pkl", "rb") as theta_f:
+            threshold = pickle.load(theta_f)
+    else:
+        with open(threshold_path, "rb") as theta_f:
             threshold = pickle.load(theta_f)
 
     snn_model = individual_SNN_4_ensemble_no_fire(1023 - index, threshold, use_bias=False)

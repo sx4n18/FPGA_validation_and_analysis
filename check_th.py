@@ -5,6 +5,7 @@ import pickle
 
 for i in range(20):
     path = "./quant_pruned_SNN/diagonal_" + str(i) + "/quantised_threshold.pkl"
+    #path = "./pruning_ANN/diagonal_" + str(i) + "/threshold.pkl"
     f = open(path, "rb")
     quant_th = pickle.load(f)
     f.close()
